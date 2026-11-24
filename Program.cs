@@ -1,7 +1,6 @@
 using System.Diagnostics;
 using System.Text;
 using System.Text.Json;
-using System.Management;
 using Microsoft.Win32;
 
 namespace Refresh;
